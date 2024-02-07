@@ -1,4 +1,4 @@
-theme: dinky
+theme: jekyll-theme-dinky
 
 # Transitioning from Traditional Excel to Power BI: My Insights
 
