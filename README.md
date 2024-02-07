@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # Transitioning from Traditional Excel to Power BI: My Insights
 
 
