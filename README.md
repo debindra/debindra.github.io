@@ -3,7 +3,7 @@ theme: jekyll-theme-dinky
 # Transitioning from Traditional Excel to Power BI: My Insights
 
 
-![alt text](https://github.com/debindra/debindra.github.io/blob/main/Screenshot%202024-02-07%20at%2017.21.04.png) "Photo by Adrien WIESENBACH on Unsplash"
+![alt text]([https://github.com/debindra/debindra.github.io/blob/main/Screenshot%202024-02-07%20at%2017.21.04.png](https://raw.githubusercontent.com/debindra/debindra.github.io/main/Screenshot%202024-02-07%20at%2017.21.04.png)) "Photo by Adrien WIESENBACH on Unsplash"
 
 [Transitioning](https://debindra.github.io/about) from traditional Excel to Power BI isn’t just about adopting a new tool; it’s a journey of discovery, empowerment, and growth. As someone who has navigated this transition firsthand, I’ve come to appreciate the profound impact it can have, both professionally and personally.
 
