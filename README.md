@@ -4,6 +4,9 @@
 
 ![alt text](https://raw.githubusercontent.com/debindra/debindra.github.io/main/Screenshot%202024-02-07%20at%2017.21.04.png) "Photo by Adrien WIESENBACH on Unsplash"
 
+img{
+   border: 1px solid black;
+}
 
 Let’s face it: Excel has been a trusty companion for many of us for years. It’s reliable, familiar, and versatile. But as the demands of data analysis evolve, so must our tools. Enter Power BI, Microsoft’s powerhouse for business intelligence and analytics. Making the leap from Excel to Power BI can feel daunting at first, but trust me, it’s worth it.
 
